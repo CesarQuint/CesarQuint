@@ -1,5 +1,5 @@
-
-- 👋 Hi, I’m @CesarQuint a FullStack Developer who frequently works with MERN stack.
+#Cesar Quintero
+- 👋 Hi thanks for be here, I’m a FullStack Developer who frequently works with MERN stack.
 Self-taught and enthusiastic in always learning something new.
 My current interests are more in the Back End area with the use of Nodejs & Express ,also currently I would like to learn how to use 3D libraries of Js.
 - You can contact me through my webpage or my linkedIn
@@ -15,3 +15,4 @@ My current interests are more in the Back End area with the use of Nodejs & Expr
 ![React.js](https://img.shields.io/badge/-React.js-blueviolet)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
+<img src="{[BadgeURLHere](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)}" />
