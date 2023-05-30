@@ -1,7 +1,8 @@
-<script src="https://code.iconify.design/2/2.0.4/iconify.min.js"></script>
 
-- 👋 Hi, I’m @CesarQuint a self taught Front End developer and enthusiastic in always learning something new. My current interests are improving my JavaScript and React skills. The most recent interests to learn are Backend and the use of 3D JavaScript libraries.
-- You can contact me through my webpage or my tweeter 
+- 👋 Hi, I’m @CesarQuint a FullStack Developer who frequently works with MERN stack.
+Self-taught and enthusiastic in always learning something new.
+My current interests are more in the Back End area with the use of Nodejs & Express ,also currently I would like to learn how to use 3D libraries of Js.
+- You can contact me through my webpage or my linkedIn
 - https://cesarquinteroportfolio.netlify.app/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarQuint&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,4 +15,3 @@
 ![React.js](https://img.shields.io/badge/-React.js-blueviolet)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
-<iconify-icon icon="skill-icons:react-dark"></iconify-icon>
