@@ -9,11 +9,18 @@ My current interests are more in the Back End area with the use of Nodejs & Expr
 
 ## Tecnologías
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![HTML5](https://img.shields.io/badge/-HTML5-orange)
-![CSS3](https://img.shields.io/badge/-CSS3-blue)
-![React.js](https://img.shields.io/badge/-React.js-blueviolet)
-![Node.js](https://img.shields.io/badge/-Node.js-green)
-![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
+![[image]({BadgeURLHere})](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+)
 ![[image]({BadgeURLHere})](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 )
+![[image]({BadgeURLHere})](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+)
+![[image]({BadgeURLHere})](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+)
+![[image]({BadgeURLHere})](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+)
+![[image]({BadgeURLHere})](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+)
+![[image]({BadgeURLHere})](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+)
+
