@@ -7,7 +7,7 @@ My current interests are more in the Back End area with the use of Nodejs & Expr
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarQuint&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologías
+## Technologies
 
 ![[image]({BadgeURLHere})](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 )
