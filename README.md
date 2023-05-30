@@ -2,5 +2,5 @@
 - You can contact me through my webpage or my tweeter 
 - https://cesarquinteroportfolio.netlify.app/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/?username=CesarQuint)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarQuint)](https://github.com/anuraghazra/github-readme-stats)
 
