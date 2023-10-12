@@ -26,4 +26,5 @@ My current interests are more in the Back End area with the use of Nodejs & Expr
 )
 ![[image]({BadgeURLHere})](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 )
+![[image]({BadgeURLHere})](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
